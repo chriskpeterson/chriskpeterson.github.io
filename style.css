@@ -55,12 +55,13 @@ div {
     border-style: solid;
     margin: 20px;
     margin-left: 50px;
+    background-color: gray;
 
     
 }
 
 .frontpagetext {
-    width: 60%;
+    width: 900px;
     margin: 20px;
     margin-left: 50px;
     
